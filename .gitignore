@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# Rider/IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Packages
+*.nupkg
+*.snupkg
+*.psess
+*.vsp
+*.vspscc
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Publish output
+publish/
+
+# Others
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.tmp
+*.bak
+*.swp
